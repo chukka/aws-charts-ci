@@ -9,4 +9,4 @@ It is based from [Dockerfile](https://github.com/chukka/chart-testing/blob/maste
 ## Docker Image
 
 A Docker image is available at:
-- `docker.io/chukka/eks-charts-ci` with list of available tags [here](https://hub.docker.com/repository/docker/rimusz/gke-charts-ci/tags).
+- `docker.io/chukka/eks-charts-ci` with list of available tags [here](https://hub.docker.com/repository/docker/chukka/eks-charts-ci/tags).
