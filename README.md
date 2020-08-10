@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Docker image of [ct](https://github.com/helm/chart-testing) tool to test Helm Charts on GKE.
+Docker image of [ct](https://github.com/helm/chart-testing) tool to test Helm Charts on EKS.
 It is based from [Dockerfile](https://github.com/chukka/chart-testing/blob/master/examples/eks/Dockerfile).
 
 ## Docker Image
